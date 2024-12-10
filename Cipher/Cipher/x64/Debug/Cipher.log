@@ -1,0 +1,16 @@
+﻿  Cipher.cpp
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(14,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(15,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(16,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(45,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(65,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(66,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(116,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(137,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(246,61): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(246,47): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(264,79): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(264,60): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(436,84): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dethord\source\repos\Cipher\Cipher\Cipher.cpp(517,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Cipher.vcxproj -> C:\Users\Dethord\source\repos\Cipher\x64\Debug\Cipher.exe

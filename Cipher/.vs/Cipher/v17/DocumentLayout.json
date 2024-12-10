@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dethord\\source\\repos\\Cipher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB39E883-8020-48A1-8A93-36593C0BCFA8}|Cipher\\Cipher.vcxproj|C:\\Users\\Dethord\\source\\repos\\Cipher\\Cipher\\Cipher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB39E883-8020-48A1-8A93-36593C0BCFA8}|Cipher\\Cipher.vcxproj|solutionrelative:Cipher\\Cipher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cipher.cpp",
+              "DocumentMoniker": "C:\\Users\\Dethord\\source\\repos\\Cipher\\Cipher\\Cipher.cpp",
+              "RelativeDocumentMoniker": "Cipher\\Cipher.cpp",
+              "ToolTip": "C:\\Users\\Dethord\\source\\repos\\Cipher\\Cipher\\Cipher.cpp",
+              "RelativeToolTip": "Cipher\\Cipher.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T19:58:31.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
